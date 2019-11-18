@@ -1,2 +1,2 @@
 # seleniumstarter
-Maven project to show use of selenium for simple UI testing. 
+A simple maven project that uses Selenium for UI testing. 
